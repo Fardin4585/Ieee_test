@@ -1,3 +1,5 @@
 print("Hello word")
 
-print("Helo thsi my first code")
+print("Helo this")
+
+print("this my second line")
